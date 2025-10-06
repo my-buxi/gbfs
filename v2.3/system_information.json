@@ -1,5 +1,5 @@
 {
-  "last_updated": 1759754037,
+  "last_updated": 1759754784,
   "ttl": 3600,
   "version": "2.3",
   "data": {
@@ -7,8 +7,5 @@
     "language": "en",
     "name": "mybuxi",
     "timezone": "Europe/Zurich"
-    "contact_email": "it@mybuxi.ch"
-
   }
-
 }
