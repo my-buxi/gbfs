@@ -1,11 +1,12 @@
 {
-  "last_updated": 1759757458,
+  "last_updated": 1759760619,
   "ttl": 3600,
   "version": "2.3",
   "data": {
     "system_id": "mybuxi_ch",
     "language": "en",
     "name": "mybuxi",
-    "timezone": "Europe/Zurich"
+    "timezone": "Europe/Zurich",
+    "contact_email": "yaseen.mujahid@mybuxi.ch"
   }
 }

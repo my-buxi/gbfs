@@ -1,5 +1,5 @@
 {
-  "last_updated": 1759757458,
+  "last_updated": 1759760619,
   "ttl": 3600,
   "version": "2.3",
   "data": {
@@ -7,7 +7,8 @@
       {
         "vehicle_type_id": "hybrid_taxi_bus",
         "form_factor": "car",
-        "propulsion_type": "hybrid",
+        "propulsion_type": "electric",
+        "rider_capacity": 7,
         "max_range_meters": 0,
         "name": "Hybrid Taxi-Bus"
       }
