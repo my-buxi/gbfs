@@ -1,1 +1,33 @@
-{"regions":[{"name":"Region 1","id":"1"},{"name":"Region 2","id":"2"}]}
+{
+  "last_updated": 1759749979,
+  "ttl": 3600,
+  "version": "2.3",
+  "data": {
+    "regions": [
+      {
+        "region_id": "Andermatt",
+        "name": "Andermatt"
+      },
+      {
+        "region_id": "Belp",
+        "name": "Belp"
+      },
+      {
+        "region_id": "Emmental",
+        "name": "Emmental"
+      },
+      {
+        "region_id": "Herzogenbuchsee",
+        "name": "Herzogenbuchsee"
+      },
+      {
+        "region_id": "MaurZH",
+        "name": "MaurZH"
+      },
+      {
+        "region_id": "Toggenburg",
+        "name": "Toggenburg"
+      }
+    ]
+  }
+}
