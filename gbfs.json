@@ -1,0 +1,27 @@
+{
+  "last_updated": 1759735907,
+  "ttl": 3600,
+  "version": "2.3",
+  "data": {
+    "en": {
+      "feeds": [
+        {
+          "name": "system_information",
+          "url": "http://localhost:8000/gbfs-csv/system_information.json"
+        },
+        {
+          "name": "system_regions",
+          "url": "http://localhost:8000/gbfs-csv/system_regions.json"
+        },
+        {
+          "name": "station_information",
+          "url": "http://localhost:8000/gbfs-csv/station_information.json"
+        },
+        {
+          "name": "station_status",
+          "url": "http://localhost:8000/gbfs-csv/station_status.json"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "last_updated": 1759735907,
+  "ttl": 3600,
+  "version": "2.3",
+  "data": {
+    "system_id": "mybuxi_ch",
+    "language": "en",
+    "name": "mybuxi",
+    "timezone": "Europe/Zurich"
+  }
+}
