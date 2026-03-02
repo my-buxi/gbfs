@@ -1,36 +1,36 @@
 {
-  "last_updated": 1768398445,
+  "last_updated": 1772457273,
   "ttl": 3600,
   "version": "2.3",
   "data": {
     "regions": [
       {
-        "region_id": "Andermatt",
-        "name": "Andermatt"
+        "region_id": "region_0",
+        "name": "Maur ZH Region"
       },
       {
-        "region_id": "Belp",
-        "name": "Belp"
+        "region_id": "region_1",
+        "name": "Belp Region"
       },
       {
-        "region_id": "Emmental",
-        "name": "Emmental"
+        "region_id": "region_2",
+        "name": "Toggenburg Region"
       },
       {
-        "region_id": "Herzogenbuchsee",
-        "name": "Herzogenbuchsee"
+        "region_id": "region_3",
+        "name": "Andermatt Region"
       },
       {
-        "region_id": "Maur",
-        "name": "Maur"
+        "region_id": "region_4",
+        "name": "Sense Region"
       },
       {
-        "region_id": "Sense",
-        "name": "Sense"
+        "region_id": "region_5",
+        "name": "Herzogenbuchsee Region"
       },
       {
-        "region_id": "Toggenburg",
-        "name": "Toggenburg"
+        "region_id": "region_6",
+        "name": "Emmental Region"
       }
     ]
   }
